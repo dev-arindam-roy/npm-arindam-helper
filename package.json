@@ -13,7 +13,12 @@
     "type": "git",
     "url": "git+https://github.com/dev-arindam-roy/npm-arindam-helper"
   },
-  "keywords": ["devarindam", "arindam helpers", "helper functions", "awesome helpers"],
+  "keywords": [
+    "devarindam",
+    "arindam helpers",
+    "helper functions",
+    "awesome helpers"
+  ],
   "author": "Arindam Roy <arindam.roy.developer@gmail.com> (https://github.com/dev-arindam-roy)",
   "license": "MIT",
   "bugs": {
@@ -21,8 +26,7 @@
   },
   "homepage": "https://github.com/dev-arindam-roy/npm-arindam-helper#readme",
   "devDependencies": {
-  },
-  "dependencies": {
-    
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.3"
   }
 }
