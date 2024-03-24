@@ -1,5 +1,5 @@
 {
-  "name": "arindam-helpers",
+  "name": "arindam-awesome-helpers",
   "version": "1.0.0",
   "description": "A js library that have many awesome helper functions",
   "main": "./dist/index.js",
@@ -11,18 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dev-arindam-roy/npm-console-color"
+    "url": "git+https://github.com/dev-arindam-roy/npm-arindam-helper"
   },
-  "keywords": ["devarindam", "console color", "console color log", "console log"],
+  "keywords": ["devarindam", "arindam helpers", "helper functions", "awesome helpers"],
   "author": "Arindam Roy <arindam.roy.developer@gmail.com> (https://github.com/dev-arindam-roy)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dev-arindam-roy/npm-console-color/issues"
+    "url": "https://github.com/dev-arindam-roy/npm-arindam-helper/issues"
   },
-  "homepage": "https://github.com/dev-arindam-roy/npm-console-color#readme",
+  "homepage": "https://github.com/dev-arindam-roy/npm-arindam-helper#readme",
   "devDependencies": {
-    "tsup": "^8.0.2",
-    "typescript": "^5.3.3"
   },
   "dependencies": {
     
